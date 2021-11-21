@@ -1,0 +1,3 @@
+﻿  Dad Jokes.cpp
+C:\Users\Ignas\source\repos\Dad Jokes\Dad Jokes\Dad Jokes.cpp(157,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dad Jokes.vcxproj -> C:\Users\Ignas\source\repos\Dad Jokes\Debug\Dad Jokes.exe
